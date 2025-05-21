@@ -4,8 +4,8 @@ import {Header} from './components/header'
 import {Footer} from './components/footer'
 
 import {Home} from './page/home'
-import {Contact} from './page/contact'
-import {About} from './page/about'
+import Contact from './page/contact';
+import About from './page/about';
 import {Category} from './page/category'
 import {Recipe} from './page/recipe'
 
