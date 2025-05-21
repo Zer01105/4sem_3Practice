@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/4sem_3Practice/static/css/main.f6cb02c6.css",
-    "main.js": "/4sem_3Practice/static/js/main.ba8d1946.js",
+    "main.js": "/4sem_3Practice/static/js/main.df8f21c0.js",
     "index.html": "/4sem_3Practice/index.html",
     "main.f6cb02c6.css.map": "/4sem_3Practice/static/css/main.f6cb02c6.css.map",
-    "main.ba8d1946.js.map": "/4sem_3Practice/static/js/main.ba8d1946.js.map"
+    "main.df8f21c0.js.map": "/4sem_3Practice/static/js/main.df8f21c0.js.map"
   },
   "entrypoints": [
     "static/css/main.f6cb02c6.css",
-    "static/js/main.ba8d1946.js"
+    "static/js/main.df8f21c0.js"
   ]
 }
